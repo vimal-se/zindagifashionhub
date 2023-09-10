@@ -3,9 +3,6 @@
     width: 100%;
     height: 80px;
 }
-
-
-
 .menu_txt {
     color: white;
     padding-bottom: 25px;
@@ -16,7 +13,7 @@
     font-family: Comfortaa;
     font-size: 13px;
     text-decoration: none;
-
+    padding-left:80px;
 }
 .home_txt:hover{
     color: #f46f63;
@@ -26,24 +23,19 @@
     font-family: Comfortaa;
     font-size: 13px;
     text-decoration: none;
-
+    padding-left:50px;
 }
 .contactus_txt:hover{
     color: #f46f63;
 }
-
 .logo {
     width: 130px;
     height: 80px;
     padding-top: 8px;
-
-
 }
-
 .youtube {
     font-size: 26px;
     color: white;
-
 }
 .youtube:hover{
     color: #f46f63;
@@ -63,14 +55,10 @@
 }
 .insta:hover{
     color: #f46f63;
-
 }
-
 .icons_pad {
     padding-bottom: 15px;
-
 }
-
 .enquiry {
     background-color: white;
     border: transparent;
@@ -80,48 +68,39 @@
     font-size: 12px;
     letter-spacing: 3px;
 }
-
 .enry_btn {
     padding-bottom: 20px;
 }
-
 .banner {
     width: 100%;
     height: 650px;
     background-image: url(Images/banner.png);
-
 }
-
 .banner_box {
-    width: 300px;
-    height: 300px;
+    width:290px;
+    height:280px;
     background-color: black;
     position:absolute;
-    left:30%;
+    left:31%;
     top:40%;
-    
     opacity: 0.7;
  
     
-
 }
-
 .box_txt {
     color: white;
     font-family: Viaoda Libre;
     font-size: 40px;
     padding-top: 30px;
-
+    text-align: center;
 }
-
 .box_para {
     color: white;
     font-family: Comfortaa;
     font-size: 13px;
     padding-top: 15px;
-
+    text-align: center;
 }
-
 .box_btn {
     background-color: #f46f63;
     border: transparent;
@@ -131,41 +110,30 @@
     font-family: Comfortaa;
     font-size: 13px;
     padding-top: 5px;
-
-
+    
 }
-
 .social_media_bar {
     width: 100%;
     height: 80px;
     background-color:#f8f4f3;
    
 }
-
 .sm_br_youtube {
     font-size: 35px;
     color: #a07272;
-
 }
-
 .sm_br_facebook {
     font-size: 30px;
     color: #a07272;
-
 }
-
 .sm_br_instagram {
     font-size: 30px;
     color: #a07272;
-
 }
-
 .sm_br_email {
     font-size: 30px;
     color: #a07272;
-
 }
-
 .sm_br_txt {
     font-family: Viaoda Libre;
     color: black;
@@ -173,19 +141,15 @@
     text-decoration: none;
     padding-left: 10px;
 }
-
 .sm_br_txt_pad {
     padding-top: 15px;
 }
-
 .getintch-rw {
     width: 100%;
     height:130px;
     background-color:#ffffff;
     padding-top:30px;
-
 }
-
 .gt_txt{
     font-family:Rouge Script;
     text-align:center;
@@ -198,8 +162,6 @@
     color: black;
     text-align:center;
     font-size:25px;
-
-
 }
 .workshop_col{
     height:450px;
@@ -221,18 +183,15 @@
     padding-left:20px;
     
 }
-
 .outlet_col{
     height:450px;
     background-color:#ffffff;
-
 }
 .map_col{
     height:450px;
     background-color:#ffffff;
     padding: 0%;
 }
-
 .get_col_pad{
     padding-top:25px;
 }
@@ -241,7 +200,6 @@
     height:60px;
     background-color: #7a1135;
 }
-
 .footer_box_pad{
     padding-top:20px;
 }
@@ -251,6 +209,4 @@
     font-size:14px;
     text-align: center;
     padding-top:20px;
-
 }
-
